@@ -1,4 +1,4 @@
-# 🧾 RIDER 01 — SYSTEM INTAKE & KINEMATICS
+# 🧾 RIDER 001 — Elite Cycling Lab
 
 ## 📝 CLINICAL INTAKE FORM (Patient Copy)
 *Please complete all fields based on your most recent 2-hour+ effort.*
