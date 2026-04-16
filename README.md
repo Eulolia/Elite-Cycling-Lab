@@ -55,8 +55,9 @@ This allows immediate changes on the bike and more focused follow-up work off it
 
 ## 📂 REPOSITORY CONTENT
 
-* [**/Cases**](./Cases) – Example rider cases showing Input → Interpretation → Decision Output  
-* [**/Documentation**](./Documentation) – High-level concepts and terminology (simplified)  
+* [**Case Study 001: The Endurance Focus**](./Cases/Case_001_Audit.md) – Addressing hip compression and pelvic drift.
+* [**Case Study 002: The Aero-Respiratory Conflict**](./Cases/Case_002_Audit.md) – Balancing aerodynamics with breathing mechanics.
+* [**Case Study 003: The Sprint Stability Audit**](./Cases/Case_003_Audit.md) – Isolating torque leaks and pelvic instability.
 
 **Note:** Core engine logic and implementation parameters are proprietary and are not included in this public overview.
 
